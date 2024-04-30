@@ -1,0 +1,2 @@
+INPUT = allocator.h allocator.c logger.h logger.c
+OUTPUT_DIRECTORY = docs
